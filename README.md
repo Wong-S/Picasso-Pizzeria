@@ -73,7 +73,7 @@ Do you have a love for pizza? How about making wacky, creative and "artistic" pi
 ### Video playthrough
 
 <br>
-![Alt Text](https://media.giphy.com/media/1wv6lXQUGQ6y0LRbKl/giphy.gif)
+<img src = "https://media.giphy.com/media/1wv6lXQUGQ6y0LRbKl/giphy.gif">
 <br>
 
 ### Demo link
