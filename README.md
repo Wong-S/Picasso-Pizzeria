@@ -1,4 +1,4 @@
-# Picasso's Pizzaria
+# Picasso's Pizzeria
 
 ## Table of Contents
 
@@ -9,19 +9,18 @@
 
 ## <a name="overview"></a>Overview
 
-Having trouble falling asleep? Optium Time is a sleep tracker app that helps the user wind down for bed. Once the user sets up an account and logs in, they can create a journal for that day, set an alarm for when they want to wake up, and search for ambient sounds to help them fall asleep. Users also can view a weekly average of how many hours of sleep they got, as well as view additional data about their sleep cycles and REM/NREM stages.
+Do you have a love for pizza? How about making wacky, creative and "artistic" pizzas'? If so, take a break with this charming terminal-based game designed using Python with enhanced Turtle graphics. With the assistance of THE famous Picasso, you'll be guided to select a variety of toppings and pay for your very own pizza. So what are you waiting for? Come on in and experience Picasso's Pizzeria's "freshly" baked pizzas. 
 
 ## <a name="tech-stack"></a>Tech Stack
 
-**Front End:** HTML5, Jinja2, JavaScript, AJAX, Bootstrap, CSS<br>
-**Back End:** Python, Flask, PostgreSQL, SQLAlchemy<br>
-**Frameworks/Libraries:** Chart.js, Moment.js, Python Datetime, Pytz<br>
-**APIs:** Twilio API, Youtube Data API
+
+**Back End:** Python<br>
+**Frameworks/Libraries:** Turtle Graphics<br>
 <br/>
 
 ## <a name="features"></a>Features
 
--Set an alarm and have Twilio API send a text message detailing the total hours you slept and the number of sleep cycles for that night.
+# Choose from a Variety of Toppings! 
 <br><br>
 
 <!-- <p align="center">
@@ -29,7 +28,7 @@ Having trouble falling asleep? Optium Time is a sleep tracker app that helps the
 <br/><br/>
  </p> -->
 
--Keep a journal to help you unwind your thoughts.
+ # Add, Edit, and Delete Toppings!
 <br><br>
 
 <!-- <p align="center">
@@ -50,8 +49,7 @@ on your mind. -->
 <br/><br/>
  </p> -->
 
--Need extra sounds to help you focus and relax for bed? The ambient sound station uses the Youtube Data API for you
-to select certain white,brown, and pink noises.
+-Pay And Add A Tip.
 <br><br>
 
 <!-- <p align="center">
