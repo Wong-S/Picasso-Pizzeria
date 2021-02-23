@@ -20,7 +20,7 @@ Do you have a love for pizza? How about making wacky, creative and "artistic" pi
 
 ## <a name="features"></a>Features
 
-# Choose from a Variety of Toppings! 
+# Choose from a variety of toppings 
 <br><br>
 
 <!-- <p align="center">
@@ -28,7 +28,7 @@ Do you have a love for pizza? How about making wacky, creative and "artistic" pi
 <br/><br/>
  </p> -->
 
- # Add, Edit, and Delete Toppings!
+ # Add, Edit, and Delete toppings
 <br><br>
 
 <!-- <p align="center">
@@ -49,15 +49,14 @@ on your mind. -->
 <br/><br/>
  </p> -->
 
--Pay And Add A Tip.
+# Pay and add a tip
 <br><br>
 
 <!-- <p align="center">
 <img src="/static/images/meditation.jpg">
 <br><br>
  </p> -->
-
--Look back on your previous sleep log data and view your sleep stages and hypnogram for that day.
+# Create unique pizzas
 <br><br>
 
 ## <a name="developer"></a>About the Developer
