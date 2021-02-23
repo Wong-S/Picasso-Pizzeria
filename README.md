@@ -78,8 +78,8 @@ Do you have a love for pizza? How about making wacky, creative and "artistic" pi
 
 ### Demo link
 
-<a href = "https://repl.it/@sw135/Project-Pizza#main.py">
- 
+<a href = "https://repl.it/@sw135/Project-Pizza#main.py">Repl.it Link Here</a>
+
 ## <a name="developer"></a>About the Developer
 
 Biological scientist turned Software Engineer wanting to make a difference and change by creating applications and programs for our future leaders.
