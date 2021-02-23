@@ -5,6 +5,7 @@
 - [Overview](#overview)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
+- [Video/Demo Link](#video-demo)
 - [About the Developer](#developer)
 
 ## <a name="overview"></a>Overview
@@ -67,6 +68,18 @@ Do you have a love for pizza? How about making wacky, creative and "artistic" pi
 <br><br>
  </p>
 
+## <a name="video-demo"></a> Video/Demo Link
+
+### Video playthrough
+
+<br>
+![Alt Text](https://media.giphy.com/media/1wv6lXQUGQ6y0LRbKl/giphy.gif)
+<br>
+
+### Demo link
+
+<a href = "https://repl.it/@sw135/Project-Pizza#main.py">
+ 
 ## <a name="developer"></a>About the Developer
 
 Biological scientist turned Software Engineer wanting to make a difference and change by creating applications and programs for our future leaders.
