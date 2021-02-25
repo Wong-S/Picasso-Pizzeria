@@ -1,5 +1,9 @@
 # Picasso's Pizzeria
 
+<p align="center">
+<img src="logo.png">
+<br/><br/>
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -25,7 +29,7 @@ Do you have a love for pizza? How about making wacky, creative and "artistic" pi
 <br><br>
 
 <p align="center">
-<img src="/static/img/toppings-menu.png">
+<img src="toppings-menu.png">
 <br/><br/>
  </p>
 
@@ -34,12 +38,12 @@ Do you have a love for pizza? How about making wacky, creative and "artistic" pi
 <br><br>
 
 <p align="center">
-<img src="/static/img/delete-toppings.png">
+<img src="delete-toppings.png">
 <br/><br/>
  </p>
 
  <p align="center">
-<img src="/static/img/add-toppings.png">
+<img src="add-toppings.png">
 <br/><br/>
  </p>
 
@@ -50,7 +54,7 @@ Do you have a love for pizza? How about making wacky, creative and "artistic" pi
 <br><br>
 
 <p align="center">
-<img src="/static/img/checkout.png">
+<img src="checkout.png">
 <br><br>
  </p>
 
@@ -64,7 +68,7 @@ Do you have a love for pizza? How about making wacky, creative and "artistic" pi
  </p>
 
  <p align="center">
-<img src="/static/img/pizza-2.png">
+<img src="pizza-2.png">
 <br><br>
  </p>
 
