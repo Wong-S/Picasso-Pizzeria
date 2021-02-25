@@ -64,7 +64,7 @@ Do you have a love for pizza? How about making wacky, creative and "artistic" pi
  </p>
 
  <p align="center">
-<img src="pizza-2.png">
+<img src="/static/img/pizza-2.png">
 <br><br>
  </p>
 
