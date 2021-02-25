@@ -59,12 +59,12 @@ Do you have a love for pizza? How about making wacky, creative and "artistic" pi
 <br><br>
 
 <p align="center">
-<img src="/static/img/pizza-1.png">
+<img src="pizza-1.png">
 <br><br>
  </p>
 
  <p align="center">
-<img src="/static/img/pizza-2.png">
+<img src="pizza-2.png">
 <br><br>
  </p>
 
